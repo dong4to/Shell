@@ -18,9 +18,9 @@
 	- [Executing Project](#executing-project)
 
 ## Integrantes
-- Luis Felipe Poma Astete (u202110902)
-- André Dario Pilco Chiuyare (u202110764)
-- John Davids Sovero Cubillas (u202115065)
+- Luis F (u202110902)
+- André D (u202110764)
+- John D (u202115065)
 
 **Docente:** Luis Martin Canavals Sanchez
 
